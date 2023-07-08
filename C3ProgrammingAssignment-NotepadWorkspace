@@ -1,0 +1,27 @@
+<NotepadPlus>
+    <Project name="C3ProgrammingAssignment">
+        <File name="Application.cpp" />
+        <File name="Application.h" />
+        <File name="EmulNet.cpp" />
+        <File name="EmulNet.h" />
+        <File name="Grader.sh" />
+        <File name="Log.cpp" />
+        <File name="Log.h" />
+        <File name="Makefile" />
+        <File name="Member.cpp" />
+        <File name="Member.h" />
+        <File name="MP1Node.cpp" />
+        <File name="MP1Node.h" />
+        <File name="Params.cpp" />
+        <File name="Params.h" />
+        <File name="Queue.h" />
+        <File name="run.sh" />
+        <File name="stdincludes.h" />
+        <File name="submit.py" />
+        <Folder name="testcases">
+            <File name="testcases\msgdropsinglefailure.conf" />
+            <File name="testcases\multifailure.conf" />
+            <File name="testcases\singlefailure.conf" />
+        </Folder>
+    </Project>
+</NotepadPlus>
